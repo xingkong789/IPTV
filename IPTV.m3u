@@ -187,4 +187,5 @@ http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰香港
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-
+#EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="央视频道",纯享4K
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011651/1.m3u8
