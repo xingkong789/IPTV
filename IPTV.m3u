@@ -74,7 +74,7 @@ http://36.32.99.237:5003/custom1.m3u8?token=7375646fa91aefc8a571dafc6db625aef68d
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视频道",河北卫视
 http://36.32.99.237:5003/hebeiws.m3u8?token=7375646fa91aefc8a571dafc6db625aef68d6e4b&z=1151
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视频道",河南卫视
-http://36.32.99.237:5003/hws.m3u8?token=7375646fa91aefc8a571dafc6db625aef68d6e4b&z=1151
+http://36.32.99.237:5003/hnws.m3u8?token=7375646fa91aefc8a571dafc6db625aef68d6e4b&z=1151
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://36.32.99.237:5003/hljws.m3u8?token=7375646fa91aefc8a571dafc6db625aef68d6e4b&z=1151
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
