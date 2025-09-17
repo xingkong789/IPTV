@@ -87,3 +87,5 @@ http://171.83.106.195:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 http://171.83.106.195:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,CCTV15-音乐
 http://171.83.106.195:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,上海都市
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225749/index.m3u8
