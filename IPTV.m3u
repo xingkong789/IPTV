@@ -337,3 +337,7 @@ http://113.195.172.192:808/hls/241/index.m3u8
 http://113.195.172.192:808/hls/108/index.m3u8
 #EXTINF:-1 ,重庆卫视
 http://113.195.172.192:808/hls/60/index.m3u8
+#EXTINF:-1 ,浙江卫视4K
+https://stream1.freetv.fun/27bde01f6e5506617bec575ba1293bfc0a149bafe1eb681562f3d956baae616a.m3u8
+#EXTINF:-1 ,南国都市
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
