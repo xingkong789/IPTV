@@ -1,343 +1,205 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV-1
-http://113.195.172.192:808/hls/158/index.m3u8
-#EXTINF:-1 ,CCTV-1
-http://113.195.172.192:808/hls/22/index.m3u8
-#EXTINF:-1 ,CCTV-2
-http://113.195.172.192:808/hls/159/index.m3u8
-#EXTINF:-1 ,CCTV-2
-http://113.195.172.192:808/hls/23/index.m3u8
-#EXTINF:-1 ,CCTV-3
-http://113.195.172.192:808/hls/24/index.m3u8
-#EXTINF:-1 ,CCTV-3
-http://113.195.172.192:808/hls/160/index.m3u8
-#EXTINF:-1 ,CCTV-4
-http://113.195.172.192:808/hls/161/index.m3u8
-#EXTINF:-1 ,CCTV4K超高清
-http://113.195.172.192:808/hls/180/index.m3u8
-#EXTINF:-1 ,CCTV4K超高清
-http://113.195.172.192:808/hls/107/index.m3u8
-#EXTINF:-1 ,CCTV-4中文国际美洲
-http://113.195.172.192:808/hls/26/index.m3u8
-#EXTINF:-1 ,CCTV-5
-http://113.195.172.192:808/hls/162/index.m3u8
-#EXTINF:-1 ,CCTV-5
-http://113.195.172.192:808/hls/27/index.m3u8
-#EXTINF:-1 ,CCTV-5+
-http://113.195.172.192:808/hls/28/index.m3u8
-#EXTINF:-1 ,CCTV-5+
-http://113.195.172.192:808/hls/163/index.m3u8
-#EXTINF:-1 ,CCTV-6
-http://113.195.172.192:808/hls/29/index.m3u8
-#EXTINF:-1 ,CCTV-6
-http://113.195.172.192:808/hls/165/index.m3u8
-#EXTINF:-1 ,CCTV-7
-http://113.195.172.192:808/hls/30/index.m3u8
-#EXTINF:-1 ,CCTV-7
-http://113.195.172.192:808/hls/166/index.m3u8
-#EXTINF:-1 ,CCTV-8
-http://113.195.172.192:808/hls/167/index.m3u8
-#EXTINF:-1 ,CCTV-8
-http://113.195.172.192:808/hls/31/index.m3u8
-#EXTINF:-1 ,CCTV-9
-http://113.195.172.192:808/hls/168/index.m3u8
-#EXTINF:-1 ,CCTV-10
-http://113.195.172.192:808/hls/33/index.m3u8
-#EXTINF:-1 ,CCTV-10
-http://113.195.172.192:808/hls/169/index.m3u8
-#EXTINF:-1 ,CCTV-11
-http://113.195.172.192:808/hls/170/index.m3u8
-#EXTINF:-1 ,CCTV-12
-http://113.195.172.192:808/hls/102/index.m3u8
-#EXTINF:-1 ,CCTV-12
-http://113.195.172.192:808/hls/171/index.m3u8
-#EXTINF:-1 ,CCTV-13
-http://113.195.172.192:808/hls/36/index.m3u8
-#EXTINF:-1 ,CCTV-13
-http://113.195.172.192:808/hls/172/index.m3u8
-#EXTINF:-1 ,CCTV-14
-http://113.195.172.192:808/hls/173/index.m3u8
-#EXTINF:-1 ,CCTV-14
-http://113.195.172.192:808/hls/37/index.m3u8
-#EXTINF:-1 ,CCTV-15
-http://113.195.172.192:808/hls/174/index.m3u8
-#EXTINF:-1 ,CCTV-16
-http://113.195.172.192:808/hls/178/index.m3u8
-#EXTINF:-1 ,CCTV-16
-http://113.195.172.192:808/hls/41/index.m3u8
-#EXTINF:-1 ,CCTV-17
-http://113.195.172.192:808/hls/42/index.m3u8
-#EXTINF:-1 ,CCTV-17
-http://113.195.172.192:808/hls/179/index.m3u8
-#EXTINF:-1 ,CGTN?
-http://113.195.172.192:808/hls/219/index.m3u8
-#EXTINF:-1 ,CGTN DOCUMENTARY
-http://113.195.172.192:808/hls/215/index.m3u8
-#EXTINF:-1 ,CGTN ESPANOL
-http://113.195.172.192:808/hls/216/index.m3u8
-#EXTINF:-1 ,CGTN FRANCAIS
-http://113.195.172.192:808/hls/217/index.m3u8
-#EXTINF:-1 ,CGTN 阿拉拍
-http://113.195.172.192:808/hls/218/index.m3u8
-#EXTINF:-1 ,CGTN阿拉伯
-http://113.195.172.192:808/hls/75/index.m3u8
-#EXTINF:-1 ,CGTN英语
-http://113.195.172.192:808/hls/114/index.m3u8
-#EXTINF:-1 ,CGTN英语
-http://113.195.172.192:808/hls/214/index.m3u8
-#EXTINF:-1 ,CHC动作电影
-http://113.195.172.192:808/hls/98/index.m3u8
-#EXTINF:-1 ,CHC动作电影
-http://113.195.172.192:808/hls/112/index.m3u8
-#EXTINF:-1 ,CHC动作电影
-http://113.195.172.192:808/hls/15/index.m3u8
-#EXTINF:-1 ,CHC家庭影院
-http://113.195.172.192:808/hls/111/index.m3u8
-#EXTINF:-1 ,CHC家庭影院
-http://113.195.172.192:808/hls/16/index.m3u8
-#EXTINF:-1 ,CHC家庭影院
-http://113.195.172.192:808/hls/150/index.m3u8
-#EXTINF:-1 ,CHC影迷电影
-http://113.195.172.192:808/hls/110/index.m3u8
-#EXTINF:-1 ,CHC影迷电影
-http://113.195.172.192:808/hls/14/index.m3u8
-#EXTINF:-1 ,CHC影迷电影
-http://113.195.172.192:808/hls/148/index.m3u8
-#EXTINF:-1 ,安徽卫视
-http://113.195.172.192:808/hls/186/index.m3u8
-#EXTINF:-1 ,安徽卫视
-http://113.195.172.192:808/hls/48/index.m3u8
-#EXTINF:-1 ,北京卫视
-http://113.195.172.192:808/hls/47/index.m3u8
-#EXTINF:-1 ,北京卫视
-http://113.195.172.192:808/hls/185/index.m3u8
-#EXTINF:-1 ,兵器科技
-http://113.195.172.192:808/hls/97/index.m3u8
-#EXTINF:-1 ,兵器科技
-http://113.195.172.192:808/hls/237/index.m3u8
-#EXTINF:-1 ,第一剧场
-http://113.195.172.192:808/hls/151/index.m3u8
-#EXTINF:-1 ,第一剧场
-http://113.195.172.192:808/hls/18/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://113.195.172.192:808/hls/183/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://113.195.172.192:808/hls/80/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://113.195.172.192:808/hls/45/index.m3u8
-#EXTINF:-1 ,东南卫视
-http://113.195.172.192:808/hls/87/index.m3u8
-#EXTINF:-1 ,东南卫视
-http://113.195.172.192:808/hls/118/index.m3u8
-#EXTINF:-1 ,风尚购物
-http://113.195.172.192:808/hls/232/index.m3u8
-#EXTINF:-1 ,风云剧场
-http://113.195.172.192:808/hls/122/index.m3u8
-#EXTINF:-1 ,风云剧场
-http://113.195.172.192:808/hls/20/index.m3u8
-#EXTINF:-1 ,风云剧场
-http://113.195.172.192:808/hls/153/index.m3u8
-#EXTINF:-1 ,风云音乐
-http://113.195.172.192:808/hls/19/index.m3u8
-#EXTINF:-1 ,风云音乐
-http://113.195.172.192:808/hls/121/index.m3u8
-#EXTINF:-1 ,风云音乐
-http://113.195.172.192:808/hls/152/index.m3u8
-#EXTINF:-1 ,风云足球
-http://113.195.172.192:808/hls/96/index.m3u8
-#EXTINF:-1 ,风云足球
-http://113.195.172.192:808/hls/236/index.m3u8
-#EXTINF:-1 ,甘肃卫视
-http://113.195.172.192:808/hls/226/index.m3u8
-#EXTINF:-1 ,高尔夫网球
-http://113.195.172.192:808/hls/95/index.m3u8
-#EXTINF:-1 ,高尔夫网球
-http://113.195.172.192:808/hls/235/index.m3u8
-#EXTINF:-1 ,广东卫视
-http://113.195.172.192:808/hls/52/index.m3u8
-#EXTINF:-1 ,广东卫视
-http://113.195.172.192:808/hls/190/index.m3u8
-#EXTINF:-1 ,广西卫视
-http://113.195.172.192:808/hls/70/index.m3u8
-#EXTINF:-1 ,广西卫视
-http://113.195.172.192:808/hls/208/index.m3u8
-#EXTINF:-1 ,贵州卫视
-http://113.195.172.192:808/hls/74/index.m3u8
-#EXTINF:-1 ,贵州卫视
-http://113.195.172.192:808/hls/213/index.m3u8
-#EXTINF:-1 ,海南卫视
-http://113.195.172.192:808/hls/193/index.m3u8
-#EXTINF:-1 ,河北卫视
-http://113.195.172.192:808/hls/83/index.m3u8
-#EXTINF:-1 ,河北卫视
-http://113.195.172.192:808/hls/200/index.m3u8
-#EXTINF:-1 ,河南卫视
-http://113.195.172.192:808/hls/199/index.m3u8
-#EXTINF:-1 ,河南卫视
-http://113.195.172.192:808/hls/82/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://113.195.172.192:808/hls/89/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://113.195.172.192:808/hls/201/index.m3u8
-#EXTINF:-1 ,湖北卫视
-http://113.195.172.192:808/hls/191/index.m3u8
-#EXTINF:-1 ,湖北卫视
-http://113.195.172.192:808/hls/63/index.m3u8
-#EXTINF:-1 ,湖南卫视
-http://113.195.172.192:808/hls/181/index.m3u8
-#EXTINF:-1 ,湖南卫视
-http://113.195.172.192:808/hls/43/index.m3u8
-#EXTINF:-1 ,怀旧剧场
-http://113.195.172.192:808/hls/21/index.m3u8
-#EXTINF:-1 ,怀旧剧场
-http://113.195.172.192:808/hls/154/index.m3u8
-#EXTINF:-1 ,环球旅游 640
-http://113.195.172.192:808/hls/126/index.m3u8
+#EXTINF:-1 ,CCTV1-综合
+http://139.214.176.163:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV2-财经
+http://139.214.176.163:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV3-综艺
+http://139.214.176.163:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV4-国际
+http://139.214.176.163:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV5-体育
+http://139.214.176.163:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV6-电影
+http://139.214.176.163:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV7-国防军事
+http://139.214.176.163:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV8-电视剧
+http://139.214.176.163:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV9-纪录
+http://139.214.176.163:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV10-科教
+http://139.214.176.163:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV11-戏曲
+http://139.214.176.163:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV12-社会与法
+http://139.214.176.163:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV13-新闻
+http://139.214.176.163:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV14-少儿
+http://139.214.176.163:9901/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV15-音乐
+http://139.214.176.163:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV-16 奥林匹克
+http://139.214.176.163:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV17-农业农村
+http://139.214.176.163:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV5+体育赛事
+http://139.214.176.163:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,吉林卫视
-http://113.195.172.192:808/hls/195/index.m3u8
-#EXTINF:-1 ,吉林卫视
-http://113.195.172.192:808/hls/57/index.m3u8
-#EXTINF:-1 ,吉林卫视
-http://113.195.172.192:808/hls/85/index.m3u8
-#EXTINF:-1 ,纪实科技
-http://113.195.172.192:808/hls/105/index.m3u8
-#EXTINF:-1 ,纪实科技
-http://113.195.172.192:808/hls/230/index.m3u8
-#EXTINF:-1 ,江苏卫视
-http://113.195.172.192:808/hls/78/index.m3u8
-#EXTINF:-1 ,江苏卫视
-http://113.195.172.192:808/hls/184/index.m3u8
-#EXTINF:-1 ,江西都市-2
-http://113.195.172.192:808/hls/5/index.m3u8
-#EXTINF:-1 ,江西都市-2
-http://113.195.172.192:808/hls/141/index.m3u8
-#EXTINF:-1 ,江西公共农业-5
-http://113.195.172.192:808/hls/8/index.m3u8
-#EXTINF:-1 ,江西公共农业-5
-http://113.195.172.192:808/hls/144/index.m3u8
-#EXTINF:-1 ,江西教育
-http://113.195.172.192:808/hls/13/index.m3u8
-#EXTINF:-1 ,江西教育
-http://113.195.172.192:808/hls/147/index.m3u8
-#EXTINF:-1 ,江西经济生活-3 640
-http://113.195.172.192:808/hls/6/index.m3u8
-#EXTINF:-1 ,江西经济生活-3 640
-http://113.195.172.192:808/hls/142/index.m3u8
-#EXTINF:-1 ,江西少儿-6
-http://113.195.172.192:808/hls/145/index.m3u8
-#EXTINF:-1 ,江西少儿-6
-http://113.195.172.192:808/hls/11/index.m3u8
-#EXTINF:-1 ,江西卫视
-http://113.195.172.192:808/hls/140/index.m3u8
-#EXTINF:-1 ,江西卫视
-http://113.195.172.192:808/hls/4/index.m3u8
-#EXTINF:-1 ,江西新闻-7
-http://113.195.172.192:808/hls/10/index.m3u8
-#EXTINF:-1 ,江西新闻-7
-http://113.195.172.192:808/hls/146/index.m3u8
-#EXTINF:-1 ,江西宜春-1综合
-http://113.195.172.192:808/hls/3/index.m3u8
-#EXTINF:-1 ,江西宜春-2法治民生
-http://113.195.172.192:808/hls/2/index.m3u8
-#EXTINF:-1 ,江西移动电视-8
-http://113.195.172.192:808/hls/12/index.m3u8
-#EXTINF:-1 ,金鹰纪实
-http://113.195.172.192:808/hls/225/index.m3u8
-#EXTINF:-1 ,金鹰纪实
-http://113.195.172.192:808/hls/81/index.m3u8
-#EXTINF:-1 ,梨园频道
-http://113.195.172.192:808/hls/127/index.m3u8
+http://139.214.176.163:9901/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,辽宁卫视
-http://113.195.172.192:808/hls/194/index.m3u8
-#EXTINF:-1 ,内蒙古卫视 640
-http://113.195.172.192:808/hls/69/index.m3u8
-#EXTINF:-1 ,内蒙古卫视 640
-http://113.195.172.192:808/hls/207/index.m3u8
-#EXTINF:-1 ,女性时尚
-http://113.195.172.192:808/hls/90/index.m3u8
-#EXTINF:-1 ,女性时尚
-http://113.195.172.192:808/hls/93/index.m3u8
-#EXTINF:-1 ,女性时尚
-http://113.195.172.192:808/hls/157/index.m3u8
-#EXTINF:-1 ,青海卫视 640
-http://113.195.172.192:808/hls/65/index.m3u8
-#EXTINF:-1 ,青海卫视 640
-http://113.195.172.192:808/hls/202/index.m3u8
-#EXTINF:-1 ,三沙卫视 640
-http://113.195.172.192:808/hls/103/index.m3u8
-#EXTINF:-1 ,三沙卫视 640
-http://113.195.172.192:808/hls/222/index.m3u8
-#EXTINF:-1 ,三沙卫视 640
-http://113.195.172.192:808/hls/125/index.m3u8
-#EXTINF:-1 ,厦门卫视 640
-http://113.195.172.192:808/hls/209/index.m3u8
-#EXTINF:-1 ,厦门卫视 640
-http://113.195.172.192:808/hls/113/index.m3u8
-#EXTINF:-1 ,山东教育卫视 640
-http://113.195.172.192:808/hls/224/index.m3u8
-#EXTINF:-1 ,山东卫视
-http://113.195.172.192:808/hls/187/index.m3u8
-#EXTINF:-1 ,山东卫视
-http://113.195.172.192:808/hls/79/index.m3u8
-#EXTINF:-1 ,山西卫视 640
-http://113.195.172.192:808/hls/59/index.m3u8
-#EXTINF:-1 ,山西卫视 640
-http://113.195.172.192:808/hls/197/index.m3u8
-#EXTINF:-1 ,陕西卫视 640
-http://113.195.172.192:808/hls/203/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://113.195.172.192:808/hls/50/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://113.195.172.192:808/hls/188/index.m3u8
-#EXTINF:-1 ,世界地理
-http://113.195.172.192:808/hls/123/index.m3u8
-#EXTINF:-1 ,世界地理
-http://113.195.172.192:808/hls/155/index.m3u8
-#EXTINF:-1 ,世界地理
-http://113.195.172.192:808/hls/91/index.m3u8
-#EXTINF:-1 ,四川卫视
-http://113.195.172.192:808/hls/196/index.m3u8
-#EXTINF:-1 ,四海钓鱼
-http://113.195.172.192:808/hls/109/index.m3u8
-#EXTINF:-1 ,四海钓鱼
-http://113.195.172.192:808/hls/240/index.m3u8
-#EXTINF:-1 ,天津卫视
-http://113.195.172.192:808/hls/54/index.m3u8
-#EXTINF:-1 ,天津卫视
-http://113.195.172.192:808/hls/192/index.m3u8
-#EXTINF:-1 ,文物宝库
-http://113.195.172.192:808/hls/228/index.m3u8
-#EXTINF:-1 ,武术世界
-http://113.195.172.192:808/hls/77/index.m3u8
-#EXTINF:-1 ,武术世界
-http://113.195.172.192:808/hls/221/index.m3u8
-#EXTINF:-1 ,央视台球
-http://113.195.172.192:808/hls/120/index.m3u8
-#EXTINF:-1 ,央视台球
-http://113.195.172.192:808/hls/156/index.m3u8
-#EXTINF:-1 ,央视台球
-http://113.195.172.192:808/hls/92/index.m3u8
-#EXTINF:-1 ,央视文化精品
-http://113.195.172.192:808/hls/234/index.m3u8
-#EXTINF:-1 ,央视文化精品
-http://113.195.172.192:808/hls/94/index.m3u8
-#EXTINF:-1 ,云南卫视
-http://113.195.172.192:808/hls/104/index.m3u8
-#EXTINF:-1 ,云南卫视
-http://113.195.172.192:808/hls/204/index.m3u8
+http://139.214.176.163:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,黑龙江卫视
+http://139.214.176.163:9901/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,北京卫视
+http://139.214.176.163:9901/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,东方卫视
+http://139.214.176.163:9901/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,浙江卫视
-http://113.195.172.192:808/hls/182/index.m3u8
-#EXTINF:-1 ,浙江卫视
-http://113.195.172.192:808/hls/44/index.m3u8
-#EXTINF:-1 ,中国陶瓷
-http://113.195.172.192:808/hls/164/index.m3u8
-#EXTINF:-1 ,中国天气
-http://113.195.172.192:808/hls/241/index.m3u8
-#EXTINF:-1 ,中央新影发现之旅 640
-http://113.195.172.192:808/hls/108/index.m3u8
+http://139.214.176.163:9901/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,江苏卫视
+http://139.214.176.163:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,安徽卫视
+http://139.214.176.163:9901/tsfile/live/1075_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,东南卫视
+http://139.214.176.163:9901/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,天津卫视
+http://139.214.176.163:9901/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,江西卫视
+http://139.214.176.163:9901/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,山东卫视
+http://139.214.176.163:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,山西卫视
+http://139.214.176.163:9901/tsfile/live/1080_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,河南卫视
+http://139.214.176.163:9901/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,河北卫视
+http://139.214.176.163:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,湖北卫视
+http://139.214.176.163:9901/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,湖南卫视
+http://139.214.176.163:9901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,广东卫视
+http://139.214.176.163:9901/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,广西卫视
+http://139.214.176.163:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,深圳卫视
+http://139.214.176.163:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,海南卫视
+http://139.214.176.163:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,三沙卫视
+http://139.214.176.163:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,重庆卫视
-http://113.195.172.192:808/hls/60/index.m3u8
-#EXTINF:-1 ,浙江卫视4K
-https://stream1.freetv.fun/27bde01f6e5506617bec575ba1293bfc0a149bafe1eb681562f3d956baae616a.m3u8
-#EXTINF:-1 ,南国都市
-https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+http://139.214.176.163:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,贵州卫视
+http://139.214.176.163:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,四川卫视
+http://139.214.176.163:9901/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,云南卫视
+http://139.214.176.163:9901/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,西藏卫视
+http://139.214.176.163:9901/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,陕西卫视
+http://139.214.176.163:9901/tsfile/live/1095_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,青海卫视
+http://139.214.176.163:9901/tsfile/live/1096_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,兵团卫视
+http://139.214.176.163:9901/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,甘肃卫视
+http://139.214.176.163:9901/tsfile/live/1098_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,新疆卫视
+http://139.214.176.163:9901/tsfile/live/1099_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,宁夏卫视
+http://139.214.176.163:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,内蒙古卫视
+http://139.214.176.163:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,吉林都市
+http://139.214.176.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,吉林综艺
+http://139.214.176.163:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,吉林影视
+http://139.214.176.163:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,吉林生活
+http://139.214.176.163:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,吉林乡村
+http://139.214.176.163:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,长影频道
+http://139.214.176.163:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,吉林教育
+http://139.214.176.163:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,延边卫视
+http://139.214.176.163:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,松原
+http://139.214.176.163:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,松原公共
+http://139.214.176.163:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CHC 动作电影
+http://139.214.176.163:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CHC 影迷电影
+http://139.214.176.163:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CHC 家庭影院
+http://139.214.176.163:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,乐游
+http://139.214.176.163:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,法制天地
+http://139.214.176.163:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,金色学堂
+http://139.214.176.163:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,生活时尚
+http://139.214.176.163:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,都市时尚
+http://139.214.176.163:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,动漫秀场
+http://139.214.176.163:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,游戏风云
+http://139.214.176.163:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,快乐垂钓
+http://139.214.176.163:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,茶频道
+http://139.214.176.163:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,第一剧场
+http://139.214.176.163:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,怀旧剧场
+http://139.214.176.163:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,电视指南
+http://139.214.176.163:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,央视文化精品
+http://139.214.176.163:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,地理世界
+http://139.214.176.163:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,兵器科技
+http://139.214.176.163:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,女性时尚
+http://139.214.176.163:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,风云音乐
+http://139.214.176.163:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,风云足球
+http://139.214.176.163:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,风云剧场
+http://139.214.176.163:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,央视台球
+http://139.214.176.163:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,卫生健康
+http://139.214.176.163:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,高尔夫
+http://139.214.176.163:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,中国交通
+http://139.214.176.163:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CETV1
+http://139.214.176.163:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CETV2
+http://139.214.176.163:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CETV4
+http://139.214.176.163:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,金鹰纪实高清
+http://139.214.176.163:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,BTV高清
+http://139.214.176.163:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,卡酷动画
+http://139.214.176.163:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,睛彩竞技
+http://139.214.176.163:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,睛彩篮球
+http://139.214.176.163:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,睛彩羽毛球
+http://139.214.176.163:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,睛彩广场舞
+http://139.214.176.163:9901/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,武术世界
+http://139.214.176.163:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,梨园高清
+http://139.214.176.163:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,文物宝库
+http://139.214.176.163:9901/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CGTN 英语高清
+http://139.214.176.163:9901/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
