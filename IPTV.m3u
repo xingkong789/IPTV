@@ -1,173 +1,260 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV1
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-1H265_4000.m3u8
+http://113.195.172.192:808/hls/158/index.m3u8
+#EXTINF:-1 ,CCTV1
+http://113.195.172.192:808/hls/22/index.m3u8
 #EXTINF:-1 ,CCTV2
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-2H265_4000.m3u8
+http://113.195.172.192:808/hls/159/index.m3u8
+#EXTINF:-1 ,CCTV2
+http://113.195.172.192:808/hls/23/index.m3u8
 #EXTINF:-1 ,CCTV3
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-3H265_4000.m3u8
+http://113.195.172.192:808/hls/160/index.m3u8
+#EXTINF:-1 ,CCTV3
+http://113.195.172.192:808/hls/24/index.m3u8
 #EXTINF:-1 ,CCTV4
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-4H265_4000.m3u8
-#EXTINF:-1 ,CCTV4K
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/ys4Kcq_2000.m3u8
+http://113.195.172.192:808/hls/161/index.m3u8
+#EXTINF:-1 ,CCTV4K超高清
+http://113.195.172.192:808/hls/107/index.m3u8
+#EXTINF:-1 ,CCTV4K超高清
+http://113.195.172.192:808/hls/180/index.m3u8
+#EXTINF:-1 ,CCTV4中文国际美洲
+http://113.195.172.192:808/hls/26/index.m3u8
 #EXTINF:-1 ,CCTV5
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5H265_4000.m3u8
+http://113.195.172.192:808/hls/162/index.m3u8
 #EXTINF:-1 ,CCTV5
-http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.105.252.61:80/PLTV/4/224/3221228502/index.m3u8
-#EXTINF:-1 ,CCTV5 4K
-http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.105.252.61:80/PLTV/4/224/3221228502/index.m3u8
-#EXTINF:-1 ,CCTV5 4k
-http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/4/224/3221228502/index.m3u8
+http://113.195.172.192:808/hls/27/index.m3u8
 #EXTINF:-1 ,CCTV5+
-http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/4/224/3221228492/index.m3u8
+http://113.195.172.192:808/hls/28/index.m3u8
 #EXTINF:-1 ,CCTV5+
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5plusH265_4000.m3u8
-#EXTINF:-1 ,CCTV5+
-http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.105.252.61:80/PLTV/4/224/3221228492/index.m3u8
+http://113.195.172.192:808/hls/163/index.m3u8
 #EXTINF:-1 ,CCTV6
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-6H265_4000.m3u8
+http://113.195.172.192:808/hls/165/index.m3u8
+#EXTINF:-1 ,CCTV6
+http://113.195.172.192:808/hls/29/index.m3u8
 #EXTINF:-1 ,CCTV7
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-7H265_4000.m3u8
+http://113.195.172.192:808/hls/166/index.m3u8
 #EXTINF:-1 ,CCTV8
-http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.105.252.61:80/PLTV/4/224/3221228578/index.m3u8
+http://113.195.172.192:808/hls/167/index.m3u8
 #EXTINF:-1 ,CCTV8
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-8H265_4000.m3u8
-#EXTINF:-1 ,CCTV8
-http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/4/224/3221228578/index.m3u8
+http://113.195.172.192:808/hls/31/index.m3u8
 #EXTINF:-1 ,CCTV9
-http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.105.252.61:80/PLTV/4/224/3221228758/index.m3u8
+http://113.195.172.192:808/hls/32/index.m3u8
 #EXTINF:-1 ,CCTV9
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-9H265_4000.m3u8
+http://113.195.172.192:808/hls/168/index.m3u8
 #EXTINF:-1 ,CCTV10
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-10H265_4000.m3u8
+http://113.195.172.192:808/hls/169/index.m3u8
 #EXTINF:-1 ,CCTV10
-http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.105.252.61:80/PLTV/4/224/3221228761/index.m3u8
+http://113.195.172.192:808/hls/33/index.m3u8
 #EXTINF:-1 ,CCTV11
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-11-H265_4000.m3u8
+http://113.195.172.192:808/hls/34/index.m3u8
+#EXTINF:-1 ,CCTV11
+http://113.195.172.192:808/hls/170/index.m3u8
 #EXTINF:-1 ,CCTV12
-http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/4/224/3221228630/index.m3u8
+http://113.195.172.192:808/hls/171/index.m3u8
 #EXTINF:-1 ,CCTV12
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-12H265_4000.m3u8
+http://113.195.172.192:808/hls/35/index.m3u8
+#EXTINF:-1 ,CCTV12
+http://113.195.172.192:808/hls/102/index.m3u8
 #EXTINF:-1 ,CCTV13
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-xw_4000.m3u8
+http://113.195.172.192:808/hls/36/index.m3u8
 #EXTINF:-1 ,CCTV14
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-14H265_4000.m3u8
-#EXTINF:-1 ,CCTV14
-http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.105.252.61:80/PLTV/4/224/3221228636/index.m3u8
-#EXTINF:-1 ,CCTV14
-http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.105.252.61:80/PLTV/4/224/3221228633/index.m3u8
+http://113.195.172.192:808/hls/37/index.m3u8
 #EXTINF:-1 ,CCTV15
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-15-yyH265_4000.m3u8
-#EXTINF:-1 ,CCTV15
-http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.105.252.61:80/PLTV/4/224/3221228639/index.m3u8
-#EXTINF:-1 ,CCTV15
-http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.105.252.61:80/PLTV/4/224/3221228622/index.m3u8
+http://113.195.172.192:808/hls/38/index.m3u8
 #EXTINF:-1 ,CCTV16
-http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.105.252.61:80/PLTV/4/224/3221228625/index.m3u8
-#EXTINF:-1 ,CCTV16
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16_4000.m3u8
-#EXTINF:-1 ,CCTV16-4k
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16-4K_8000.m3u8
+http://113.195.172.192:808/hls/41/index.m3u8
 #EXTINF:-1 ,CCTV17
-http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.105.252.61:80/PLTV/4/224/3221228642/index.m3u8
+http://113.195.172.192:808/hls/17/index.m3u8
 #EXTINF:-1 ,CCTV17
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-17_4000.m3u8
+http://113.195.172.192:808/hls/42/index.m3u8
+#EXTINF:-1 ,CCTV兵器科技
+http://113.195.172.192:808/hls/237/index.m3u8
+#EXTINF:-1 ,CCTV兵器科技
+http://113.195.172.192:808/hls/97/index.m3u8
+#EXTINF:-1 ,CCTV第一剧场
+http://113.195.172.192:808/hls/151/index.m3u8
+#EXTINF:-1 ,CCTV第一剧场
+http://113.195.172.192:808/hls/18/index.m3u8
+#EXTINF:-1 ,CCTV风云剧场
+http://113.195.172.192:808/hls/122/index.m3u8
+#EXTINF:-1 ,CCTV风云剧场
+http://113.195.172.192:808/hls/20/index.m3u8
+#EXTINF:-1 ,CCTV风云剧场
+http://113.195.172.192:808/hls/153/index.m3u8
+#EXTINF:-1 ,CCTV风云音乐
+http://113.195.172.192:808/hls/152/index.m3u8
+#EXTINF:-1 ,CCTV风云音乐
+http://113.195.172.192:808/hls/19/index.m3u8
+#EXTINF:-1 ,CCTV风云音乐
+http://113.195.172.192:808/hls/121/index.m3u8
+#EXTINF:-1 ,CCTV风云足球
+http://113.195.172.192:808/hls/96/index.m3u8
+#EXTINF:-1 ,CCTV风云足球
+http://113.195.172.192:808/hls/236/index.m3u8
+#EXTINF:-1 ,CCTV高尔夫网球
+http://113.195.172.192:808/hls/235/index.m3u8
+#EXTINF:-1 ,CCTV高尔夫网球
+http://113.195.172.192:808/hls/95/index.m3u8
+#EXTINF:-1 ,CCTV怀旧剧场
+http://113.195.172.192:808/hls/154/index.m3u8
+#EXTINF:-1 ,CCTV怀旧剧场
+http://113.195.172.192:808/hls/21/index.m3u8
+#EXTINF:-1 ,CCTV世界地理
+http://113.195.172.192:808/hls/155/index.m3u8
+#EXTINF:-1 ,CCTV世界地理
+http://113.195.172.192:808/hls/91/index.m3u8
+#EXTINF:-1 ,CCTV世界地理
+http://113.195.172.192:808/hls/123/index.m3u8
+#EXTINF:-1 ,CCTV央视台球
+http://113.195.172.192:808/hls/120/index.m3u8
+#EXTINF:-1 ,CCTV央视台球
+http://113.195.172.192:808/hls/156/index.m3u8
+#EXTINF:-1 ,CCTV央视台球
+http://113.195.172.192:808/hls/92/index.m3u8
+#EXTINF:-1 ,CCTV央视文化精品
+http://113.195.172.192:808/hls/94/index.m3u8
+#EXTINF:-1 ,CCTV央视文化精品
+http://113.195.172.192:808/hls/234/index.m3u8
 #EXTINF:-1 ,CHC动作电影
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8
+http://113.195.172.192:808/hls/112/index.m3u8
+#EXTINF:-1 ,CHC动作电影
+http://113.195.172.192:808/hls/15/index.m3u8
+#EXTINF:-1 ,CHC动作电影
+http://113.195.172.192:808/hls/98/index.m3u8
+#EXTINF:-1 ,CHC家庭电影
+http://113.195.172.192:808/hls/111/index.m3u8
 #EXTINF:-1 ,CHC家庭影院
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8
+http://113.195.172.192:808/hls/16/index.m3u8
+#EXTINF:-1 ,CHC家庭影院
+http://113.195.172.192:808/hls/150/index.m3u8
 #EXTINF:-1 ,CHC影迷电影
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsCHC-HDH265_4000.m3u8
-#EXTINF:-1 ,峨眉电影4K
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_8000.m3u8
-#EXTINF:-1 ,峨嵋电影
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdygqH265_4000.m3u8
-#EXTINF:-1 ,上海五星体育
+http://113.195.172.192:808/hls/14/index.m3u8
+#EXTINF:-1 ,CHC影迷电影
+http://113.195.172.192:808/hls/110/index.m3u8
+#EXTINF:-1 ,CHC影迷电影
+http://113.195.172.192:808/hls/148/index.m3u8
+#EXTINF:-1 ,安徽卫视
+http://113.195.172.192:808/hls/48/index.m3u8
+#EXTINF:-1 ,安徽卫视
+http://113.195.172.192:808/hls/186/index.m3u8
+#EXTINF:-1 ,北京卫视
+http://113.195.172.192:808/hls/185/index.m3u8
+#EXTINF:-1 ,北京卫视
+http://113.195.172.192:808/hls/47/index.m3u8
+#EXTINF:-1 ,东方卫视
+http://113.195.172.192:808/hls/80/index.m3u8
+#EXTINF:-1 ,东方卫视
+http://113.195.172.192:808/hls/45/index.m3u8
+#EXTINF:-1 ,东方卫视
+http://113.195.172.192:808/hls/183/index.m3u8
+#EXTINF:-1 ,东南卫视
+http://113.195.172.192:808/hls/118/index.m3u8
+#EXTINF:-1 ,东南卫视
+http://113.195.172.192:808/hls/87/index.m3u8
+#EXTINF:-1 ,甘肃卫视
+http://113.195.172.192:808/hls/226/index.m3u8
+#EXTINF:-1 ,广东卫视
+http://113.195.172.192:808/hls/190/index.m3u8
+#EXTINF:-1 ,广东卫视
+http://113.195.172.192:808/hls/52/index.m3u8
+#EXTINF:-1 ,广西卫视
+http://113.195.172.192:808/hls/208/index.m3u8
+#EXTINF:-1 ,广西卫视
+http://113.195.172.192:808/hls/70/index.m3u8
+#EXTINF:-1 ,贵州卫视
+http://113.195.172.192:808/hls/74/index.m3u8
+#EXTINF:-1 ,贵州卫视
+http://113.195.172.192:808/hls/213/index.m3u8
+#EXTINF:-1 ,河北卫视
+http://113.195.172.192:808/hls/83/index.m3u8
+#EXTINF:-1 ,河北卫视
+http://113.195.172.192:808/hls/200/index.m3u8
+#EXTINF:-1 ,河南卫视
+http://113.195.172.192:808/hls/199/index.m3u8
+#EXTINF:-1 ,河南卫视
+http://113.195.172.192:808/hls/82/index.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://113.195.172.192:808/hls/89/index.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://113.195.172.192:808/hls/201/index.m3u8
+#EXTINF:-1 ,湖北卫视
+http://113.195.172.192:808/hls/191/index.m3u8
+#EXTINF:-1 ,湖北卫视
+http://113.195.172.192:808/hls/53/index.m3u8
+#EXTINF:-1 ,湖北卫视
+http://113.195.172.192:808/hls/63/index.m3u8
+#EXTINF:-1 ,湖南卫视
+http://113.195.172.192:808/hls/181/index.m3u8
+#EXTINF:-1 ,湖南卫视
+http://113.195.172.192:808/hls/43/index.m3u8
+#EXTINF:-1 ,吉林卫视
+http://113.195.172.192:808/hls/195/index.m3u8
+#EXTINF:-1 ,吉林卫视
+http://113.195.172.192:808/hls/85/index.m3u8
+#EXTINF:-1 ,吉林卫视
+http://113.195.172.192:808/hls/57/index.m3u8
+#EXTINF:-1 ,江苏卫视
+http://113.195.172.192:808/hls/46/index.m3u8
+#EXTINF:-1 ,江苏卫视
+http://113.195.172.192:808/hls/184/index.m3u8
+#EXTINF:-1 ,江苏卫视
+http://113.195.172.192:808/hls/78/index.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://113.195.172.192:808/hls/194/index.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://113.195.172.192:808/hls/56/index.m3u8
+#EXTINF:-1 ,山东卫视
+http://113.195.172.192:808/hls/79/index.m3u8
+#EXTINF:-1 ,山东卫视
+http://113.195.172.192:808/hls/49/index.m3u8
+#EXTINF:-1 ,山东卫视
+http://113.195.172.192:808/hls/187/index.m3u8
+#EXTINF:-1 ,深圳卫视
+http://113.195.172.192:808/hls/50/index.m3u8
+#EXTINF:-1 ,深圳卫视
+http://113.195.172.192:808/hls/188/index.m3u8
+#EXTINF:-1 ,四川卫视
+http://113.195.172.192:808/hls/196/index.m3u8
+#EXTINF:-1 ,四川卫视
+http://113.195.172.192:808/hls/58/index.m3u8
+#EXTINF:-1 ,天津卫视
+http://113.195.172.192:808/hls/192/index.m3u8
+#EXTINF:-1 ,天津卫视
+http://113.195.172.192:808/hls/54/index.m3u8
+#EXTINF:-1 ,云南卫视
+http://113.195.172.192:808/hls/104/index.m3u8
+#EXTINF:-1 ,云南卫视
+http://113.195.172.192:808/hls/204/index.m3u8
+#EXTINF:-1 ,浙江卫视
+http://113.195.172.192:808/hls/182/index.m3u8
+#EXTINF:-1 ,浙江卫视
+http://113.195.172.192:808/hls/44/index.m3u8
+#EXTINF:-1 ,江西卫视
+http://113.195.172.192:808/hls/4/index.m3u8
+#EXTINF:-1 ,江西卫视
+http://113.195.172.192:808/hls/140/index.m3u8
+#EXTINF:-1 ,重庆卫视
+http://113.195.172.192:808/hls/198/index.m3u8
+#EXTINF:-1 ,纪实科技
+http://113.195.172.192:808/hls/105/index.m3u8
+#EXTINF:-1 ,五星体育
 http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8
-#EXTINF:-1 ,上海都市频道
+#EXTINF:-1 ,上海都市
 http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8
 #EXTINF:-1 ,上海新闻综合
 http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
-#EXTINF:-1 ,上海都市剧场
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/yxfydsjcHDH265_4000.m3u8
-#EXTINF:-1 ,上海生活时尚
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/shssH265_4000.m3u8
-#EXTINF:-1 ,欢笑剧场-4k
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/hxjc-4k_8000.m3u8
-#EXTINF:-1 ,生活时尚
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/shssH265_4000.m3u8
-#EXTINF:-1 ,第一财经
-http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8
 #EXTINF:-1 ,魔都眼
 http://bp-livetytv.bestv.cn/ch/bestvshanghaieye.m3u8
-#EXTINF:-1 ,乐游
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/qjs-HDH265_4000.m3u8
-#EXTINF:-1 ,东方卫视
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/dfwsH265_4000.m3u8
-#EXTINF:-1 ,北京卫视
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/bjwsH265_4000.m3u8
-#EXTINF:-1 ,天津卫视
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/tjwsH265_4000.m3u8
-#EXTINF:-1 ,江苏卫视
-http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.105.252.61:80/PLTV/4/224/3221228750/index.m3u8
-#EXTINF:-1 ,山东卫视
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/sdwsH265_4000.m3u8
-#EXTINF:-1 ,重庆卫视
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/cqwsH265_4000.m3u8
-#EXTINF:-1 ,安徽卫视
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/ahwsH265_4000.m3u8
-#EXTINF:-1 ,湖北卫视
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/hbwsH265_4000.m3u8
-#EXTINF:-1 ,海南卫视
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/hnws_4000.m3u8
-#EXTINF:-1 ,陕西卫视
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/sxws_4000.m3u8
-#EXTINF:-1 ,吉林卫视
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/jlwsH265_4000.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsHDH264_4000.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/hljwsH265_4000.m3u8
-#EXTINF:-1 ,内蒙古卫视
-http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.105.252.61:80/PLTV/4/224/3221225836/index.m3u8
-#EXTINF:-1 ,宁夏卫视
-http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.105.252.61:80/PLTV/4/224/3221225842/index.m3u8
-#EXTINF:-1 ,西藏卫视
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/xzwsH264_2000.m3u8
-#EXTINF:-1 ,新疆卫视
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/xjws_4000.m3u8
-#EXTINF:-1 ,甘肃卫视
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/gsws_4000.m3u8
-#EXTINF:-1 ,金鹰纪实
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/jyjsHDH265_4000.m3u8
-#EXTINF:-1 ,重温经典
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CWJD_4000.m3u8
-#EXTINF:-1 ,四川经济
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/SCTV-2-H265_4000.m3u8
-#EXTINF:-1 ,四川文化
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/SCTV-3-H265_4000.m3u8
-#EXTINF:-1 ,四川新闻
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/SCTV-4H265_4000.m3u8
-#EXTINF:-1 ,四川影视
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/SCTV-5-scysH265_4000.m3u8
-#EXTINF:-1 ,成都影视
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CDTV-4_4000.m3u8
-#EXTINF:-1 ,新视觉
-http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/ycxsjH265_4000.m3u8
-#EXTINF:-1 ,凤凰中文
-http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228527/1.m3u8
-#EXTINF:-1 ,凤凰资讯
-http://183.3.202.19:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228524/1.m3u8
-#EXTINF:-1 ,第一剧场
-https://stream1.freetv.fun/1ea56d25e481bf73442ba584c8652187d7a63708dd04f941771b31b6866cfc1c.m3u8
-#EXTINF:-1 ,怀旧剧场
-https://stream1.freetv.fun/f451089a5253d696d2cb91230f4944eaf197b7cb13b7da926dc2781c0ed075ac.m3u8
-#EXTINF:-1 ,风云剧场
-https://stream1.freetv.fun/e844a95463a8060541dd5b646561a445ab7356dae19efe994ae4571bac9b48d6.m3u8
-#EXTINF:-1 ,风云音乐
-https://stream1.freetv.fun/bd8fd0998187cf55ed8fa997a5b36bf90ea3b0f88bff12997276bb01d86a880a.m3u8
-#EXTINF:-1 ,风云足球
-https://stream1.freetv.fun/6c15302a793da02f9fb0920567c2739ee910136725bd325fa49232cd462798d2.m3u8
-#EXTINF:-1 ,央视台球
-https://stream1.freetv.fun/0dbc09abee9b6bbeced44069a9f64b1964afccb604f04876aed2d70024b1ba4a.m3u8
-#EXTINF:-1 ,女性时尚
-https://stream1.freetv.fun/62fff94278cbbb4229e9121c544cb811276f6001a0403f206bb316185fb2e147.m3u8
+#EXTINF:-1 ,第一财经
+http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8
+#EXTINF:-1 ,欢笑剧场-4k
+#EXTINF:-1 ,浙江卫视4K
+https://stream1.freetv.fun/27bde01f6e5506617bec575ba1293bfc0a149bafe1eb681562f3d956baae616a.m3u8
+#EXTINF:-1 ,浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 ,钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 ,浙江经济生活
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 ,浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
